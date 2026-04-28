@@ -6,7 +6,7 @@ export const person = {
   social: {
     github: 'https://github.com/nelsonmario',
     linkedin: 'https://linkedin.com/in/nelsonmario',
-    instagram: 'https://instagram.com/nelsonmario'
+    instagram: 'https://instagram.com/nlsnmario'
   }
 };
 
